@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border-collapse: collapse;
+
+}
+body{
+    border-collapse: collapse;
+
+    background-color: black;
+}
+.portion{
+    display: table;
+    border-collapse: collapse;
+    box-sizing: border-box;
+}
+.left{
+float: left;
+border-collapse: collapse;
+box-sizing: border-box;
+
+}
+.right{
+float: right;
+border-collapse: collapse;
+box-sizing: border-box;
+
+}
+table{
+    width: 48%;
+    height: 200px;
+    border-collapse: collapse;
+    border: 20px solid rgb(33, 255, 51);
+box-sizing: border-box;
+}
+tbody{
+    border-collapse: collapse;
+}
+.right{
+    
+}
+tr{
+    color: rgb(230, 230, 230);
+}
